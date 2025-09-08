@@ -1,0 +1,1 @@
+Hai, my name is sai teja kotta. I have recently graduated from cmr engineering college. Now i have been started to learn skills in ai/ml through which process i have developed this project. In this project i have built an unsupervised learning model for titanic survival for a better and good accuracy.
